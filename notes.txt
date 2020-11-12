@@ -1,0 +1,7 @@
+Project - Responsive Website with HTML, CSS and JavaScript
+
+Part - 1
+
+Plan the features.
+    - Create Files and Folders.
+    - Boilerplate code. (No styles)
